@@ -13,7 +13,7 @@ The JavaScript language is one of the [fastest growing](http://adambard.com/blog
 <div class="row">  
 <div class="col-md-8">
 
-# What is Enterprise JavaScript
+# What is Enterprise JavaScript?
 
 Enterprise development generates software which serves the purpose of an organization as opposed to an individual. It is generally an integral part of the organization's overall Information Systems and as such it must integrate well with these other systems. A change in one system may affect one or more other enterprise systems. Enterprise development can be a very fragile world, so we place constraints on the development process. We adopt standard ways of architecting, developing, testing and deploying applications. We document systems and appoint architects to ensure that the system is resilient to failure and performant to the business needs.
 
