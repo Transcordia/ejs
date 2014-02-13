@@ -1,0 +1,163 @@
+body {
+	font-family: 'Raleway', Arial, sans-serif !important;
+	font-size: 16px;
+	padding-bottom: 1in;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+	font-family: 'Marvel', Arial, sans-serif !important;
+}
+
+blockquote {
+	font-size: inherit;
+}
+
+
+
+
+pre {
+	line-height:inherit;
+	white-space:pre;
+	border:1px solid #ddd;
+	border-radius:3px;
+	margin-bottom:1em;
+	font:16px Consolas, "Liberation Mono", Courier, monospace;
+	text-shadow:1px 1px rgba(255,255,255,0.8);
+	overflow:hidden;
+	color:#999;
+	background-color:#f8f8ff;
+	padding:10px;
+}
+
+pre .lineno {
+	background:transparent!important;
+	border:none!important;
+	margin:0!important;
+	padding:0!important;
+	background-color:#ececec;
+	color:#aaa;
+	border-right:1px solid #ddd;
+	text-align:right;
+	padding:.5em;
+}
+
+pre .err {
+color:#a61717;
+background-color:#e3d2d2;
+}
+
+pre .cp {
+color:#999;
+font-weight:700;
+}
+
+pre .cs {
+color:#999;
+font-weight:700;
+font-style:italic;
+}
+
+pre .gd {
+color:#000;
+background-color:#fdd;
+}
+
+pre .gd .x {
+color:#000;
+background-color:#faa;
+}
+
+pre .ge {
+color:#000;
+font-style:italic;
+}
+
+pre .gi {
+color:#000;
+background-color:#dfd;
+}
+
+pre .gi .x {
+color:#000;
+background-color:#afa;
+}
+
+pre .go {
+color:#888;
+}
+
+pre .gs {
+font-weight:700;
+}
+
+pre .gu {
+color:#aaa;
+}
+
+pre .nb {
+color:#0086b3;
+}
+
+pre .ni {
+color:purple;
+}
+
+pre .nt {
+color:navy;
+}
+
+pre .w {
+color:#bbb;
+}
+
+pre .sr {
+color:#009926;
+}
+
+pre .ss {
+color:#990073;
+}
+
+pre .c,pre .cm,pre .c1 {
+color:#998;
+font-style:italic;
+}
+
+pre .k,pre .o,pre .kc,pre .kd,pre .kp,pre .kr,pre .ow {
+color:#000;
+font-weight:700;
+}
+
+pre .gr,pre .gt {
+color:#a00;
+}
+
+pre .gh,pre .bp {
+color:#999;
+}
+
+pre .gp,pre .nn {
+color:#555;
+}
+
+pre .kt,pre .nc {
+color:#458;
+font-weight:700;
+}
+
+pre .m,pre .mf,pre .mh,pre .mi,pre .mo,pre .il {
+color:#099;
+}
+
+pre .s,pre .sb,pre .sc,pre .sd,pre .s2,pre .se,pre .sh,pre .si,pre .sx,pre .s1 {
+color:#d14;
+}
+
+pre .na,pre .no,pre .nv,pre .vc,pre .vg,pre .vi {
+color:teal;
+}
+
+pre .ne,pre .nf {
+color:#900;
+font-weight:700;
+}
